@@ -1,0 +1,7 @@
+hello
+history
+cat main.c 
+
+cat main.c | grep int
+cat main.c | grep int | grep main
+exit
