@@ -964,7 +964,7 @@ int export(char **args, int size_args){
 
         while(array_export[count][0] != 0){
 
-            //printf("%s\n", array_export[count]);
+            printf("%s\n", array_export[count]);
 
             count++;
             
